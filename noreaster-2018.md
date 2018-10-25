@@ -85,7 +85,7 @@ galaxy to bring your shipload of colonists to their new home.
 ![screenshot](./assets/yam-of-endor.png)
 
 [Yam of Endor](https://joshgrams.itch.io/asctiiroid) is a game that I
-started for the [2018 7-day Roguelike
+started for the [2018 Seven-Day Roguelike
 Challenge](https://itch.io/jam/7drl-challenge-2018), spending about 20
 hours building the initial version, and a further 70 or so hours
 polishing and tuning it. It's written in the L?VE 2D engine.
