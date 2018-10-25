@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nor'Easter 2018 Games
 layout: default
 ---
