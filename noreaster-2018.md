@@ -54,7 +54,7 @@ polished version to gain experience in end-to-end game development.
 It has nice audio, jelly asteroids which subtly change shape, and two
 enemy types. The lightweight bumbling blob enemies mostly putter around
 minding their own business, and then occasionally run into you when
-you?re not paying attention. Then there are the extremely dangerous
+you're not paying attention. Then there are the extremely dangerous
 Hunters which chase you down and fire seeking missile blobs at you.
 
 Your ammo slowly regenerates over time, or you get it back immediately
@@ -72,7 +72,7 @@ asteroids.
 
 Oxygen Trail is an as-yet unreleased spare-time collaboration between
 Philippe Patenaude, Michael Ackerson, and Joshua Grams. It has written
-in the L?VE 2D engine starting in late October of 2017.
+in the LÖVE 2D engine starting in late October of 2017.
 
 It's a lighthearted space adventure game loosely inspired by Oregon
 Trail and [Seedship](http://philome.la/johnayliff/seedship/play). Manage
@@ -88,7 +88,7 @@ galaxy to bring your shipload of colonists to their new home.
 started for the [2018 Seven-Day Roguelike
 Challenge](https://itch.io/jam/7drl-challenge-2018), spending about 20
 hours building the initial version, and a further 70 or so hours
-polishing and tuning it. It's written in the L?VE 2D engine.
+polishing and tuning it. It's written in the LÖVE 2D engine.
 
 It's a turn-based roguelike space shooter where you explore five levels
 of randomly generated caves to collect food, then return to the surface
@@ -97,7 +97,7 @@ to save your starving space colony.
 This is an attempt to capture the feel of Asteroids games or cave flyers
 but without the time pressure. So it still has that sense of momentum
 and inevitability because it takes as long to stop as it did to get
-going. And there?s still that tension between wanting to aim in this
+going. And there's still that tension between wanting to aim in this
 direction to shoot the enemies but in that direction to slow down before
 you crash into a wall. But you can stop at any point and take as long as
 you like to think about what to do next.
