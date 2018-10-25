@@ -12,7 +12,7 @@ I collaborated on, and two by my brother Ross.
 ![screenshot](./assets/vor.png)
 
 [Variations on Rockdodger](http://sametwice.com/vor) is a game that my
-cousin Jason Woofenden and I reworked in 2004-2006. It's a fork of [an
+cousin Jason Woofenden and I wrote in 2004-2006. It's a fork of [an
 earlier game](http://spacerocks.sourceforge.net/) by Paul Holt.
 
 You simply dodge the rocks until you die. You have thrusters in the four
