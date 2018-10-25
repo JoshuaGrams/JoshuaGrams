@@ -1,7 +1,7 @@
------
+---
 title: Joshua Grams
 layout: default
------
+---
 
 # Joshua Grams
 

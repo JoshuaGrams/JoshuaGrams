@@ -1,7 +1,7 @@
-﻿-----
+﻿---
 title: Nor'Easter 2018 Games
 layout: default
------
+---
 # Nor'Easter 2018 Games
 
 I'm taking five games to demonstrate.  One that I wrote solo, two that
