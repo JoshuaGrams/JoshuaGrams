@@ -2,8 +2,8 @@
 title: Nor'Easter 2018 Games
 layout: default
 ---
-I'm taking five games to demonstrate.  One that I wrote solo, two that
-I collaborated on, and two by my brother Ross.
+I'm demonstrating five games: one that I wrote solo, two that I
+collaborated on, and two by my brother [Ross](http://rossgrams.com/).
 
 ## Variations on Rockdodger
 
@@ -13,11 +13,12 @@ I collaborated on, and two by my brother Ross.
 cousin Jason Woofenden and I wrote in 2004-2006. It's a fork of [an
 earlier game](http://spacerocks.sourceforge.net/) by Paul Holt.
 
-You simply dodge the rocks until you die. You have thrusters in the four
-cardinal directions. The screen mostly scrolls freely to keep up with
-your ship, though there is an invisible wall chasing you. Rocks bounce
-off each other, and your thrusters push the rocks (though they're fairly
-heavy).
+Dodge the rocks until you die, surviving as long as possible. You have
+thrusters in the four cardinal directions. The screen mostly scrolls
+freely to keep up with your ship, though there is an invisible wall
+which will catch up and push you if you go too slowly for too long.
+Rocks bounce off each other, and your thrusters push the rocks (though
+they're fairly heavy).
 
 Beginner challenge: you may only tap the keys (no holding). You may only
 use the up/down keys (no left/right). Play on easy mode (press '1') and
@@ -29,7 +30,8 @@ try to make it to 45 seconds on a single life.
 ![screenshot](./assets/gunpods.png)
 
 [Gunpods Vagabond](https://rossgrams.itch.io/gunpods-vagabond) was
-written by Ross Grams in 2016 using the Godot engine.
+written by [Ross Grams](http://rossgrams.com/) in 2016 using the Godot
+engine.
 
 A side-scrolling shoot-em-up. Fly a helicopter-like spaceship, using
 your ship's dash attack and seven different weapons to blast through
@@ -46,7 +48,8 @@ Supports local co-op with up to three players.
 ![screenshot](./assets/asteroid-blaster.png)
 
 [Asteroid Blaster](https://rossgrams.itch.io/asteroidblaster) was
-written by Ross Grams in 2017 using the Defold engine.
+written by [Ross Grams](http://rossgrams.com/) in 2017 using the Defold
+engine.
 
 This was his exercise in taking a very simple game and making a complete
 polished version to gain experience in end-to-end game development.
@@ -71,13 +74,14 @@ asteroids.
 ![screenshot](./assets/oxygen-trail.png)
 
 Oxygen Trail is an as-yet unreleased spare-time collaboration between
-Philippe Patenaude, Michael Ackerson, and Joshua Grams. It has written
-in the LÖVE 2D engine starting in late October of 2017.
+[Philippe Patenaude](https://ppatenaude.itch.io/), Michael Ackerson, and
+Joshua Grams. It has written in the LÖVE 2D engine starting in late
+October of 2017.
 
-It's a lighthearted space adventure game loosely inspired by Oregon
-Trail and [Seedship](http://philome.la/johnayliff/seedship/play). Manage
-your food, water, air, and other resources as you traverse a hazardous
-galaxy to bring your shipload of colonists to their new home.
+It's a lighthearted space adventure game inspired by Oregon Trail and
+[Seedship](http://philome.la/johnayliff/seedship/play). Manage your
+food, water, air, and other resources as you traverse a hazardous galaxy
+to bring your shipload of colonists to their new home.
 
 
 ## Yam of Endor
