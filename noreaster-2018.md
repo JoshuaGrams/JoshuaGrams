@@ -32,6 +32,8 @@ Beginner challenge: you may only tap the keys (no holding). You may only
 use the up/down keys (no left/right). Play on easy mode (press '1') and
 try to make it to 45 seconds on a single life.
 
+-----
+
 
 ## Gunpods Vagabond
 
@@ -49,6 +51,8 @@ drones, dodge flights of fast-moving fighters, and try not to destroy
 yourself or your friends with the grenade launcher.
 
 Supports local co-op with up to three players.
+
+-----
 
 
 ## Asteroid Blaster
@@ -76,6 +80,8 @@ shoot them from behind. This adds another layer of tactics and makes the
 blobs more dangerous, as they can move quite quickly when dodging
 asteroids.
 
+-----
+
 
 ## Oxygen Trail
 
@@ -90,6 +96,8 @@ It's a lighthearted space adventure game inspired by Oregon Trail and
 [Seedship](http://philome.la/johnayliff/seedship/play). Manage your
 food, water, air, and other resources as you traverse a hazardous galaxy
 to bring your shipload of colonists to their new home.
+
+-----
 
 
 ## Yam of Endor
