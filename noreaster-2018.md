@@ -15,7 +15,7 @@ collaborated on, and two by my brother [Ross](http://rossgrams.com/).
 
 ## Variations on Rockdodger
 
-![screenshot](./assets/vor.png)
+[![screenshot](./assets/vor.png)](http://sametwice.com/vor)
 
 [Variations on Rockdodger](http://sametwice.com/vor) is a game that my
 cousin Jason Woofenden and I wrote in 2004-2006. It's a fork of [an
@@ -35,7 +35,7 @@ try to make it to 45 seconds on a single life.
 
 ## Gunpods Vagabond
 
-![screenshot](./assets/gunpods.png)
+[![screenshot](./assets/gunpods.png)](https://rossgrams.itch.io/gunpods-vagabond)
 
 [Gunpods Vagabond](https://rossgrams.itch.io/gunpods-vagabond) was
 written by [Ross Grams](http://rossgrams.com/) in 2016 using the Godot
@@ -53,7 +53,7 @@ Supports local co-op with up to three players.
 
 ## Asteroid Blaster
 
-![screenshot](./assets/asteroid-blaster.png)
+[![screenshot](./assets/asteroid-blaster.png)](https://rossgrams.itch.io/asteroidblaster)
 
 [Asteroid Blaster](https://rossgrams.itch.io/asteroidblaster) was
 written by [Ross Grams](http://rossgrams.com/) in 2017 using the Defold
@@ -94,7 +94,7 @@ to bring your shipload of colonists to their new home.
 
 ## Yam of Endor
 
-![screenshot](./assets/yam-of-endor.png)
+[![screenshot](./assets/yam-of-endor.png)](https://joshgrams.itch.io/asctiiroid)
 
 [Yam of Endor](https://joshgrams.itch.io/asctiiroid) is a game that I
 started for the [2018 Seven-Day Roguelike
