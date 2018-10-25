@@ -5,6 +5,14 @@ layout: default
 I'm demonstrating five games: one that I wrote solo, two that I
 collaborated on, and two by my brother [Ross](http://rossgrams.com/).
 
+[Variations on Rockdodger](#variations-on-rockdodger) |
+[Gunpods Vagabond](#gunpods-vagabond) |
+[Asteroid Blaster](#asteroid-blaster) |
+[Oxygen Trail](#oxygen-trail) |
+[Yam of Endor](#yam-of-endor)
+
+-----
+
 ## Variations on Rockdodger
 
 ![screenshot](./assets/vor.png)
