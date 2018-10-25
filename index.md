@@ -2,9 +2,6 @@
 title: Joshua Grams
 layout: default
 ---
-
-# Joshua Grams
-
 I've been a pretty serious mostly-hobby programmer since my family got
 our first computer in 1993 (when I was 13). I've messed with tons of
 different programming languages, from assembly languages to Haskell, as
