@@ -89,7 +89,7 @@ asteroids.
 
 Oxygen Trail is an as-yet unreleased spare-time collaboration between
 [Philippe Patenaude](https://ppatenaude.itch.io/), Michael Ackerson, and
-Joshua Grams. It has written in the LÖVE 2D engine starting in late
+Joshua Grams. It is written in the LÖVE 2D engine, and we started in late
 October of 2017.
 
 It's a lighthearted space adventure game inspired by Oregon Trail and
