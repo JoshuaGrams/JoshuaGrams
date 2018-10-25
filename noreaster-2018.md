@@ -109,7 +109,7 @@ to save your starving space colony.
 This is an attempt to capture the feel of Asteroids games or cave flyers
 but without the time pressure. So it still has that sense of momentum
 and inevitability because it takes as long to stop as it did to get
-going. And there's still that tension between wanting to aim in this
-direction to shoot the enemies but in that direction to slow down before
-you crash into a wall. But you can stop at any point and take as long as
-you like to think about what to do next.
+going. And there's still the tension between wanting to aim in *this*
+direction to shoot the enemies but in *that* direction to slow down
+before you crash into a wall. But you can stop at any point and take as
+long as you like to think about what to do next.
