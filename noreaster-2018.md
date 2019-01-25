@@ -19,14 +19,16 @@ collaborated on, and two by my brother [Ross](http://rossgrams.com/).
 
 [Variations on Rockdodger](http://sametwice.com/vor) is a game that my
 cousin Jason Woofenden and I wrote in 2004-2006. It's a fork of [an
-earlier game](http://spacerocks.sourceforge.net/) by Paul Holt.
+earlier game](http://spacerocks.sourceforge.net/) by Paul Holt.  Written
+in C using SDL.
 
 Dodge the rocks until you die, surviving as long as possible. You have
-thrusters in the four cardinal directions. The screen mostly scrolls
-freely to keep up with your ship, though there is an invisible wall
-which will catch up and push you if you go too slowly for too long.
-Rocks bounce off each other, and your thrusters push the rocks (though
-they're fairly heavy).
+thrusters in the four cardinal directions.
+
+The screen scrolls freely to keep up with your ship, though there is an
+invisible wall which will catch up and push you if you go too slowly for
+too long.  Rocks bounce off each other, and your jets push the rocks
+(though they're fairly heavy).
 
 Beginner challenge: you may only tap the keys (no holding). You may only
 use the up/down keys (no left/right). Play on easy mode (press '1') and
@@ -89,8 +91,8 @@ asteroids.
 
 Oxygen Trail is an as-yet unreleased spare-time collaboration between
 [Philippe Patenaude](https://ppatenaude.itch.io/), Michael Ackerson, and
-Joshua Grams. It is written in the LÖVE 2D engine, and we started in late
-October of 2017.
+Joshua Grams using the LÖVE 2D engine. We have been working on this
+since late October of 2017.
 
 It's a lighthearted space adventure game inspired by Oregon Trail and
 [Seedship](http://philome.la/johnayliff/seedship/play). Manage your
